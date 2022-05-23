@@ -5,5 +5,3 @@
 - 🔎 I’m looking for internship
 - 📧 <durmazoguzhan@yahoo.com>
 - 👔 [LinkedIn](https://www.linkedin.com/in/oguzhandurmaz/)
-
-![snake svg](https://github.com/durmazoguzhan/durmazoguzhan/blob/output/github-contribution-grid-snake.svg)
