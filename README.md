@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CRM/ERP Software Customization with Python<br>🌱 I’m currently learning SQL, .NET C#, Kotlin, Unity
+🔭 I’m currently working on CRM/ERP Softwares and Games<br>🌱 I’m currently learning ASP.NET and Unity
 
 
 ## 🌐 Socials:
