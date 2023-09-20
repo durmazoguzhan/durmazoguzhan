@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CRM/ERP Softwares and Games<br>🌱 I’m currently learning ASP.NET and Unity
+🔭 I’m currently working on Web Softwares<br>🌱 I’m currently learning .NET Backend Technologies
 
 
 ## 🌐 Socials:
