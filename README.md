@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Softwares<br>🌱 I’m currently learning .NET Backend Technologies
+# 🐱‍👤 Think, Plan, Execute:
 
 
 ## 🌐 Socials:
