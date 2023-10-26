@@ -1,4 +1,4 @@
-# 🐱‍👤 Think, Plan, Execute:
+# 🐱‍👤 Think, Plan, Execute
 
 
 ## 🌐 Socials:
